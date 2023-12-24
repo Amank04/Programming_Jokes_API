@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 3. Install dependencies
 - npm install
 4. Start the server
-- npm start
+- npm index.js
 5. Open your browser and visit http://localhost:3000 to access the Joke Generator website.
 6. Click the "Get a Joke" button to generate a random joke.
 
